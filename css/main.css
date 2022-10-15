@@ -6,8 +6,6 @@ body{
     font-family: 'Roboto mono',monospace;
     margin: 0;
     padding: 0;
-
-    
 }
 .home-body{
     position: fixed; /*     Con esto podemos lograr que nuestra main page sea de tamano completo a la pantalla sin scroll*/
